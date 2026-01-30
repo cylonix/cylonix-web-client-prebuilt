@@ -1,3 +1,3 @@
-module github.com/cylonix/web-client-prebuilt
+module github.com/cylonix/cylonix-web-client-prebuilt
 
 go 1.21
